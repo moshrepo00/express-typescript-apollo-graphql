@@ -12,16 +12,7 @@
   "author": "mo",
   "license": "ISC",
   "devDependencies": {
-    "@types/compression": "^1.7.0",
-    "@types/express": "^4.17.9",
-    "@types/graphql": "^14.5.0",
-    "@types/graphql-depth-limit": "^1.1.2",
-    "@types/node": "^14.14.9",
-    "graphql-depth-limit": "^1.1.0",
-    "graphql-import": "^1.0.2",
-    "graphql-import-node": "0.0.4",
-    "tslint": "^5.12.1",
-    "typescript": "^3.9.7"
+    "tslint": "^5.12.1"
   },
   "dependencies": {
     "apollo-server-express": "^2.19.0",
@@ -32,6 +23,15 @@
     "graphql": "^15.4.0",
     "http": "0.0.1-security",
     "ncp": "^2.0.0",
-    "socket.io": "^3.0.3"
+    "socket.io": "^3.0.3",
+    "typescript": "^3.9.7",
+    "@types/compression": "^1.7.0",
+    "@types/express": "^4.17.9",
+    "@types/graphql": "^14.5.0",
+    "@types/graphql-depth-limit": "^1.1.2",
+    "@types/node": "^14.14.9",
+    "graphql-depth-limit": "^1.1.0",
+    "graphql-import": "^1.0.2",
+    "graphql-import-node": "0.0.4"
   }
 }
