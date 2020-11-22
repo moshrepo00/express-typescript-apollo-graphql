@@ -2,19 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1c316d28-172d-4f6f-a4b0-d39370d408cb" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/dist/app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/app.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/dist/app.js.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/schema/resolverMap.js" beforeDir="false" afterPath="$PROJECT_DIR$/dist/schema/resolverMap.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/schema/resolverMap.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/dist/schema/resolverMap.js.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/schema/resolverMap.ts" beforeDir="false" afterPath="$PROJECT_DIR$/dist/schema/resolverMap.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/schema/schema.graphql" beforeDir="false" afterPath="$PROJECT_DIR$/dist/schema/schema.graphql" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/app.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/schema/resolverMap.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/schema/resolverMap.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/schema/schema.graphql" beforeDir="false" afterPath="$PROJECT_DIR$/src/schema/schema.graphql" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,7 +61,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1606023873285</updated>
-      <workItem from="1606023874590" duration="12979000" />
+      <workItem from="1606023874590" duration="13549000" />
     </task>
     <servers />
   </component>
