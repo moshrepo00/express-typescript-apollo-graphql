@@ -2,11 +2,11 @@
 Object.defineProperty(exports, "__esModule", { value: true });
 const resolverMap = {
     Query: {
-        helloWorld(_, args) {
-            return `testing`;
-        },
         blue(_, args) {
             return `blueChecked`;
+        },
+        orange(_, args) {
+            return `orangeChecked`;
         },
     },
 };

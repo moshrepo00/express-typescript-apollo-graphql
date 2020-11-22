@@ -2,11 +2,11 @@
 import { IResolvers } from 'graphql-tools';
 const resolverMap: IResolvers = {
     Query: {
-        helloWorld(_: void, args: void): string {
-            return `testing`;
-        },
         blue(_: void, args: void): string {
             return `blueChecked`;
+        },
+        orange(_: void, args: void): string {
+            return `orangeChecked`;
         },
     },
 };
