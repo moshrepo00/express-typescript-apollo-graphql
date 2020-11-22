@@ -1,4 +1,0 @@
-type Query {
-    blue: String!
-    orange: String!
-}
