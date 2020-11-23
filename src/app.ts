@@ -38,10 +38,12 @@ const loggingMiddleware = (req, res, next) => {
     console.log('ip:', req.url);
     console.log('body', req.body);
     if (req.url.includes('graphql')) {
-        if (req.body.query.includes('blue')) {
-            io.emit('blueChecked');
-        } else if (req.body.query.includes('orange')) {
-            io.emit('orangeChecked');
+        if (req.body) {
+            if (req.body.query.includes('blue')) {
+                io.emit('blueChecked');
+            } else if (req.body.query.includes('orange')) {
+                io.emit('orangeChecked');
+            }
         }
     }
     next();
